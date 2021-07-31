@@ -766,6 +766,10 @@ header {
   text-align: left;
 }
 
+.middle__description {
+    opacity: 0.6;
+}
+
 .middle__photo img {
   max-width: 120px;
   max-height: 60px;
